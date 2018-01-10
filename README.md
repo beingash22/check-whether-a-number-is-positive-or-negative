@@ -1,1 +1,1 @@
-# psychic-computing-machine
+check whether a number is positive or negative
